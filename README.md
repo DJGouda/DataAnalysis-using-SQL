@@ -4,7 +4,7 @@ This project showcases data analysis performed on retail orders data retrieved f
 
 # Technologies Used #
 
-	•	Python: For data analysis and visualization (libraries include Pandas, Matplotlib).
+	•	Python: For data analysis and visualization (libraries include Pandas, NumPy, and Matplotlib).
 	•	MySQL: For database storage, querying, and manipulation.
 	•	Kaggle API: For seamless dataset access.
 	•	Jupyter Notebook: For interactive data exploration.
